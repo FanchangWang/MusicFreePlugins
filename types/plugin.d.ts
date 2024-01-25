@@ -89,7 +89,7 @@ declare namespace IPlugin {
     key: string;
     /** 变量名 */
     name?: string;
-}
+  }
 
 
   interface IPluginDefine {
